@@ -9,7 +9,7 @@ Down below is a little bit of information about myself in case you are intereste
 ## Background Info
 
 I am currently a junior studying to obtain my BS in Computer Science at North Carolina A&T University.
-In terms of hobbies, I enjoy playing video games, PC building, and reading everything from comics to Catch-22.
+In terms of hobbies, I enjoy playing video games, PC building, and reading my Bible.
 I am also big into music, my favorites include Chance the Rapper, J Cole, and the Japanese artist Eve.
 
 ## Coding and Technologies
