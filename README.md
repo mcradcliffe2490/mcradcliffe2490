@@ -8,17 +8,16 @@ Down below is a little bit of information about myself in case you are intereste
 
 ## Background Info
 
-I am currently a junior studying to obtain my BS in Computer Science at North Carolina A&T University.
+I am currently a senior studying to obtain my BS in Computer Science at North Carolina A&T University.
 In terms of hobbies, I enjoy playing video games, PC building, and reading the Bible.
 I am also big into music, my favorites include Chance the Rapper, J Cole, and the Japanese artist Eve.
 
 ## Coding and Technologies
 
-Currently, my two strongest languages are Java and C++, though I have been mostly working with C++ lately.
-My Python is decent, I have been trying to improve and so I will likely pick up a project or two done in Python.
+Currently, my two strongest languages are java and javascript, though I have also been working with python lately for my undergraduate research.
+I've worked with C++ before for coursework but I've never done a project outside of school with C++.
 In terms of technologies, in the past I have worked with
 
 - ReactJs
 - Firebase Authentication
-- Boq Framework
-- Guice
+- Google Cloud
